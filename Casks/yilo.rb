@@ -1,6 +1,6 @@
 cask "yilo" do
-  version "261107.1"
-  sha256 "57723244cde643891e4b97c6932cfc03fa75f558f41c4e2a5c70914d251d396f"
+  version "261107.2"
+  sha256 "e81ff071557a6c537bcdcd07f2c4f5a9d99f8f1b83f81f667551ab2b597572a3"
 
   url "https://github.com/cxa/yilo/releases/download/v#{version}/Yilo-#{version}.dmg"
   name "Yilo"

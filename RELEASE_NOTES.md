@@ -1,5 +1,21 @@
 # Release notes
 
+<!-- release-notes:261107.2:start -->
+## 261107.2
+
+### English
+
+- Listen to each translation from the speaker button beside Copy. Voices follow the target language and your American or British English choice, including older English translations.
+- Click the active speaker button to stop reading. Starting another translation ends the previous one.
+- Inputs containing only a skill name and its path no longer create learning records or invalid translations. Requests that include normal sentences are still collected.
+
+### 中文
+
+- 《亦言》在每种译文的复制按钮旁加入朗读按钮，按目标语言和英美口音朗读，旧版英文译文也可使用。
+- 再次点击正在播放的朗读按钮即可停止，切换到其他译文时会自动结束上一段朗读。
+- 仅包含技能名称和路径的输入不再采集，避免出现无效译文；包含正常语句的请求仍会保留。
+
+<!-- release-notes:261107.2:end -->
 <!-- release-notes:261107.1:start -->
 ## 261107.1
 
