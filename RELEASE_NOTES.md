@@ -1,5 +1,21 @@
 # Release notes
 
+<!-- release-notes:261107.1:start -->
+## 261107.1
+
+### English
+
+- After updating from YiYan, the application in Applications now adopts the Yilo name automatically.
+- The Dock and Cmd+Tab show the current application icon after launch.
+- Your learning records and preferences stay as they are.
+
+### 中文
+
+- 从旧版升级后，应用程序文件夹中的《亦言》会自动更新为 Yilo 名称。
+- 修复启动后 Dock 和 Cmd+Tab 仍显示旧图标的问题。
+- 保留已有学习记录和设置。
+
+<!-- release-notes:261107.1:end -->
 <!-- release-notes:261107.0:start -->
 ## 261107.0
 

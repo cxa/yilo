@@ -3,6 +3,28 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261107.1</title>
+            <pubDate>Sat, 07 Nov 2026 13:17:10 +0800</pubDate>
+            <link>https://github.com/cxa/yilo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2611.07.1</sparkle:version>
+            <sparkle:shortVersionString>261107.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## English
+
+- After updating from YiYan, the application in Applications now adopts the Yilo name automatically.
+- The Dock and Cmd+Tab show the current application icon after launch.
+- Your learning records and preferences stay as they are.
+
+## 中文
+
+- 从旧版升级后，应用程序文件夹中的《亦言》会自动更新为 Yilo 名称。
+- 修复启动后 Dock 和 Cmd+Tab 仍显示旧图标的问题。
+- 保留已有学习记录和设置。
+]]></description>
+            <enclosure url="https://github.com/cxa/yilo/releases/download/v261107.1/Yilo-261107.1.dmg" length="21138312" type="application/octet-stream" sparkle:edSignature="PQt+BqqIYe5yvkH+bZoMO/paeATAX7b2VBIWSHKdxVRqBf8dMJfg6evw+JD1oby5IBeSyDVzNRzOX0+7rT3tAw=="/>
+        </item>
+        <item>
             <title>261107.0</title>
             <pubDate>Sat, 07 Nov 2026 11:48:52 +0800</pubDate>
             <link>https://github.com/cxa/yilo</link>
@@ -83,24 +105,6 @@
             <description sparkle:format="markdown"><![CDATA[《绎言》现在会跳过 Codex 定时自动化任务发出的内容，避免把自动检查指令误收录为学习记录。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v261020.0/YiYan-261020.0.dmg" length="8526717" type="application/octet-stream" sparkle:edSignature="kUTlKm27BnNuGZc8Nu/LrAMBGtx8DV3GD56R42AfzfsKBzHlkatE9xMznwIlUwxgELY7QVF9GJURQZxXP13yCg=="/>
-        </item>
-        <item>
-            <title>261012.0</title>
-            <pubDate>Mon, 12 Oct 2026 22:28:29 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2610.12.0</sparkle:version>
-            <sparkle:shortVersionString>261012.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### 更新内容
-
-- 不再把只有终端命令的输入收进学习记录，连续执行的多条命令也会忽略；命令旁的文字说明仍正常采集。
-
-### What’s new
-
-- Inputs containing only terminal commands are no longer collected as learning records, including multiple commands run together. Accompanying explanations are still collected.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261012.0/YiYan-261012.0.dmg" length="8515490" type="application/octet-stream" sparkle:edSignature="0WdkuigsWRuasXqbd4hPZXF+/WLm5PNz5uJ/CEodc6yWpQBPPcmgMrDeIF7mHov1QlNdup95Yz7tlcS6kactDg=="/>
         </item>
     </channel>
 </rss>
