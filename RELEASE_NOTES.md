@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:261107.3:start -->
+## 261107.3
+
+### English
+
+- Yilo now takes much less space to download and install.
+
+### 简体中文
+
+- 《亦言》的下载包大幅缩小，安装后占用更少空间。
+
+<!-- release-notes:261107.3:end -->
 <!-- release-notes:261107.2:start -->
 ## 261107.2
 

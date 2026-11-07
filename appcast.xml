@@ -3,6 +3,24 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261107.3</title>
+            <pubDate>Sat, 07 Nov 2026 20:44:21 +0800</pubDate>
+            <link>https://github.com/cxa/yilo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2611.07.3</sparkle:version>
+            <sparkle:shortVersionString>261107.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## English
+
+- Yilo now takes much less space to download and install.
+
+## 简体中文
+
+- 《亦言》的下载包大幅缩小，安装后占用更少空间。
+]]></description>
+            <enclosure url="https://github.com/cxa/yilo/releases/download/v261107.3/Yilo-261107.3.dmg" length="5915473" type="application/octet-stream" sparkle:edSignature="0E0hB0PNsObn23/bfYrGgffalnAWMJFRaF/Oi6kCwlLFLeWMcH9HuCVD9ZDma+sdZp0yvQIZ0JhZOQKuFPVnAw=="/>
+        </item>
+        <item>
             <title>261107.2</title>
             <pubDate>Sat, 07 Nov 2026 14:02:14 +0800</pubDate>
             <link>https://github.com/cxa/yilo</link>
@@ -97,24 +115,6 @@
 - Manual messages in the same chat continue to be collected without being skipped or duplicated.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v261023.0/YiYan-261023.0.dmg" length="8611899" type="application/octet-stream" sparkle:edSignature="PO9/M4aVnP2mycrJA80xW5KYFch/OthVykcXLpzrBiGqemtYnL06uMi6Bx2ofLpSc9aeJ3OQwRFKPbutws3JBQ=="/>
-        </item>
-        <item>
-            <title>261022.0</title>
-            <pubDate>Thu, 22 Oct 2026 13:15:57 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2610.22.0</sparkle:version>
-            <sparkle:shortVersionString>261022.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### 更新内容
-
-- 修复清空或删除学习记录后，旧记录过一会儿又重新出现的问题。离线清空、重启或在同步过程中清空，也能保留删除结果。
-
-### What’s new
-
-- Fixed deleted or cleared learning records reappearing later. Deletions now stay in effect after clearing offline, restarting the app, or clearing while sync is in progress.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261022.0/YiYan-261022.0.dmg" length="8555537" type="application/octet-stream" sparkle:edSignature="h1dH+Ul8d42do87sh1H81LxjfCXnDrwwnYdVkNpALoh+l2RQVWLqLRKWEQekcSF+nYecAgRNA9Og3BtP3gKgBA=="/>
         </item>
     </channel>
 </rss>
