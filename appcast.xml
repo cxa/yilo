@@ -3,6 +3,38 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261107.0</title>
+            <pubDate>Sat, 07 Nov 2026 11:48:52 +0800</pubDate>
+            <link>https://github.com/cxa/yilo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2611.07.0</sparkle:version>
+            <sparkle:shortVersionString>261107.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### 更新内容
+
+- 《亦言》现以 Yilo 为英文名称，并换上更清晰明亮的新图标。
+- 一次选择多种目标语言，按顺序查看完整译文与学习提示；语言选择和设置更容易理解。
+- 日语支持在对应文字上方显示平假名或罗马字，字号更清楚，换行更自然。
+- 中文新增拼音与注音，可自行切换；简体默认拼音，繁体默认汉字右侧直排注音。
+- 默认目标语言跟随源语言：英文对应简体中文，其他语言对应英文；手动选择后保留自己的配置。
+- 可从菜单栏暂停采集；默认跳过简短确认、带明显段落标记或超过 200 字符的内容，长度上限可以调整。
+- 改善译文长时间等待的问题，让后来的内容也能继续翻译。
+- 修正各语言的界面文案，让设置和学习提示更自然易懂。
+
+### What’s new
+
+- A new English name, Yilo, and a brighter, clearer app icon.
+- Choose multiple target languages and see complete translations and learning notes in your chosen order, with clearer language settings.
+- Japanese Hiragana and Romaji align above the matching text, with more readable sizing and natural wrapping.
+- Chinese now offers Pinyin and Zhuyin. Simplified Chinese defaults to Pinyin; Traditional Chinese defaults to upright Zhuyin beside each character. You can change either choice.
+- Default targets follow your source language: English translates into Simplified Chinese, and other languages into English. Your manual choices are remembered.
+- Pause capture from the menu bar. Short acknowledgements, clearly structured passages, and inputs over 200 characters are skipped by default; the length limit is adjustable.
+- Fixed translations waiting too long and preventing newer entries from being translated.
+- Improved wording across all supported interface languages.
+]]></description>
+            <enclosure url="https://github.com/cxa/yilo/releases/download/v261107.0/Yilo-261107.0.dmg" length="21115506" type="application/octet-stream" sparkle:edSignature="UcKAPZGQD6Fewn+F5fjnALPXfTSEXigFDI5qRowszGqGF2hlx/5IcBLXqWorNxtoSu4LfBxH3Go54RWE+yKmAg=="/>
+        </item>
+        <item>
             <title>261023.0</title>
             <pubDate>Fri, 23 Oct 2026 15:43:17 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -69,30 +101,6 @@
 - Inputs containing only terminal commands are no longer collected as learning records, including multiple commands run together. Accompanying explanations are still collected.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v261012.0/YiYan-261012.0.dmg" length="8515490" type="application/octet-stream" sparkle:edSignature="0WdkuigsWRuasXqbd4hPZXF+/WLm5PNz5uJ/CEodc6yWpQBPPcmgMrDeIF7mHov1QlNdup95Yz7tlcS6kactDg=="/>
-        </item>
-        <item>
-            <title>261008.0</title>
-            <pubDate>Thu, 08 Oct 2026 20:37:07 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2610.08.0</sparkle:version>
-            <sparkle:shortVersionString>261008.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## 更新内容
-
-- 每条学习记录都可以继续追问：点击记录上的对话图标，就能针对这句话的用词、语气或语法和智能体聊下去。追问只保存在这台 Mac 上，问过的记录会显示对话条数，也可以只看有追问的记录。
-- “润色当前输入框”更可靠了：Teams、浏览器网页等应用里也能顺利写回；润色期间切换到别的窗口，完成后会自动回到原输入框写入；如果没能写回，会在屏幕上方提示原因。
-- 全新的应用图标，采用更通透的玻璃质感，在深色、着色和清透外观下都更清晰。
-- 不再把回答 Codex 提问时的选择收进学习记录。
-
-## What’s new
-
-- Ask follow-up questions on any learning record: click the chat icon on a record to keep talking with an agent about its wording, tone, or grammar. Follow-ups stay on this Mac, records you’ve asked about show how many messages they have, and you can list only the records with follow-ups.
-- Refining the focused input is more reliable: it now writes back in apps such as Teams and web pages, returns to the original input if you switched windows while it worked, and shows a notice at the top of the screen when it can’t write the result back.
-- A new app icon with a clearer glass look that stays legible in dark, tinted, and clear appearances.
-- Your answers to Codex’s in-session questions are no longer collected as learning records.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261008.0/YiYan-261008.0.dmg" length="8510921" type="application/octet-stream" sparkle:edSignature="0ImqX6MJdqXTNDJ2s6sSRqmjkx4MBCMiDOMqFoh4rVzDQEpCNdSdHzgBnwNbBXzGfJLO0MHMaehJI/GS9yxFAw=="/>
         </item>
     </channel>
 </rss>

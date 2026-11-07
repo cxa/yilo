@@ -1,5 +1,31 @@
 # Release notes
 
+<!-- release-notes:261107.0:start -->
+## 261107.0
+
+### 更新内容
+
+- 《亦言》现以 Yilo 为英文名称，并换上更清晰明亮的新图标。
+- 一次选择多种目标语言，按顺序查看完整译文与学习提示；语言选择和设置更容易理解。
+- 日语支持在对应文字上方显示平假名或罗马字，字号更清楚，换行更自然。
+- 中文新增拼音与注音，可自行切换；简体默认拼音，繁体默认汉字右侧直排注音。
+- 默认目标语言跟随源语言：英文对应简体中文，其他语言对应英文；手动选择后保留自己的配置。
+- 可从菜单栏暂停采集；默认跳过简短确认、带明显段落标记或超过 200 字符的内容，长度上限可以调整。
+- 改善译文长时间等待的问题，让后来的内容也能继续翻译。
+- 修正各语言的界面文案，让设置和学习提示更自然易懂。
+
+### What’s new
+
+- A new English name, Yilo, and a brighter, clearer app icon.
+- Choose multiple target languages and see complete translations and learning notes in your chosen order, with clearer language settings.
+- Japanese Hiragana and Romaji align above the matching text, with more readable sizing and natural wrapping.
+- Chinese now offers Pinyin and Zhuyin. Simplified Chinese defaults to Pinyin; Traditional Chinese defaults to upright Zhuyin beside each character. You can change either choice.
+- Default targets follow your source language: English translates into Simplified Chinese, and other languages into English. Your manual choices are remembered.
+- Pause capture from the menu bar. Short acknowledgements, clearly structured passages, and inputs over 200 characters are skipped by default; the length limit is adjustable.
+- Fixed translations waiting too long and preventing newer entries from being translated.
+- Improved wording across all supported interface languages.
+
+<!-- release-notes:261107.0:end -->
 <!-- release-notes:261023.0:start -->
 ## 261023.0
 
