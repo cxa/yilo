@@ -1,5 +1,13 @@
 # Release notes
 
+<!-- release-notes:261110.0:start -->
+## 261110.0
+
+修复润色词条的英文正文字号未随设置调整的问题，让文字按所选大小显示。
+
+Fixed English refinement text staying at its default size instead of following your text size setting.
+
+<!-- release-notes:261110.0:end -->
 <!-- release-notes:261107.3:start -->
 ## 261107.3
 
