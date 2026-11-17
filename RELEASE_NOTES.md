@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:261117.1:start -->
+## 261117.1
+
+### English
+
+- Greatly reduced memory use and made scrolling smoother when a day contains many learning records.
+- Open long learning histories faster, with consistent page spacing and accurate index jumps.
+
+### 简体中文
+
+- 大幅降低记录较多时的内存占用，让连续阅读和滚动更流畅。
+- 更快打开较长的学习记录，同时保持清晰的页面间隔和准确的索引跳转。
+
+<!-- release-notes:261117.1:end -->
 <!-- release-notes:261117.0:start -->
 ## 261117.0
 
