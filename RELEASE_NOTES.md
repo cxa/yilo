@@ -1,5 +1,23 @@
 # Release notes
 
+<!-- release-notes:261117.0:start -->
+## 261117.0
+
+### English
+
+- Read each record as its own page, with translations, learning notes, and examples together.
+- Find a record quickly in the original-text index. Smaller windows keep the index in a floating panel.
+- Enjoy clearer typography, more distinct pages, and comfortable spacing in light and dark appearances.
+- Keep your place while records refresh, and land more accurately when jumping from the index.
+
+### 简体中文
+
+- 每条记录像一页纸，译文、对应的学习笔记与例句放在一起，阅读更连贯。
+- 左侧用原文快速索引，小窗口可打开浮动索引，给正文留出空间。
+- 调整字号、行距与页面间隔，明暗外观下层次更清晰，阅读更舒适。
+- 刷新记录时保留阅读位置，从索引跳转时定位更准确。
+
+<!-- release-notes:261117.0:end -->
 <!-- release-notes:261110.0:start -->
 ## 261110.0
 

@@ -7,16 +7,16 @@ English and focused learning notes.
 ## Install
 
 <!-- release-summary-en:start -->
-Latest version: `Yilo-261110.0.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
+Latest version: `Yilo-261117.0.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
 <!-- release-summary-en:end -->
 
 **Direct download**
 
 <!-- release-download-en:start -->
-Download [`Yilo-261110.0.dmg`](https://github.com/cxa/yilo/releases/download/v261110.0/Yilo-261110.0.dmg) (SHA-256: `0d32a0a946e90df42d44def6c178f453a487f970899911ae86486fc045a863fc`)
+Download [`Yilo-261117.0.dmg`](https://github.com/cxa/yilo/releases/download/v261117.0/Yilo-261117.0.dmg) (SHA-256: `9f56ff2ea281dea3de34737e8273cf2993958f6baf1d12d7c03939119dfbd2ea`)
 <!-- release-download-en:end -->
 
-1. Download the `Yilo-261110.0.dmg` shown above.
+1. Download the `Yilo-261117.0.dmg` shown above.
 2. Open the DMG and drag `Yilo.app` into **Applications**.
 3. Open Yilo and complete the first-launch guide.
 
@@ -56,16 +56,16 @@ Yilo is not open source.
 ## 安装
 
 <!-- release-summary-zh:start -->
-最新版本：`Yilo-261110.0.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
+最新版本：`Yilo-261117.0.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
 <!-- release-summary-zh:end -->
 
 **直接下载**
 
 <!-- release-download-zh:start -->
-下载 [`Yilo-261110.0.dmg`](https://github.com/cxa/yilo/releases/download/v261110.0/Yilo-261110.0.dmg)（SHA-256：`0d32a0a946e90df42d44def6c178f453a487f970899911ae86486fc045a863fc`）
+下载 [`Yilo-261117.0.dmg`](https://github.com/cxa/yilo/releases/download/v261117.0/Yilo-261117.0.dmg)（SHA-256：`9f56ff2ea281dea3de34737e8273cf2993958f6baf1d12d7c03939119dfbd2ea`）
 <!-- release-download-zh:end -->
 
-1. 下载上方列出的 `Yilo-261110.0.dmg`。
+1. 下载上方列出的 `Yilo-261117.0.dmg`。
 2. 打开 DMG，将 `Yilo.app` 拖入“应用程序”文件夹。
 3. 打开《亦言》并完成首次启动引导。
 
