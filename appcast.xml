@@ -3,6 +3,30 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261118.0</title>
+            <pubDate>Wed, 18 Nov 2026 11:18:19 +0800</pubDate>
+            <link>https://github.com/cxa/yilo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2611.18.0</sparkle:version>
+            <sparkle:shortVersionString>261118.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### English
+
+- Ask follow-up questions in a panel on the right of the reading window. Narrow windows show it over the page.
+- See which record you are discussing with matching highlights in the index and on the page. Drafts stay available when you close or switch conversations.
+- Enjoy clearer input fields, with manual entry aligned to both page edges. Opening follow-up hides manual entry until you close it, preserving your draft.
+- The calendar icon, index heading, and record text now line up along the left edge.
+
+### 简体中文
+
+- 追问直接在阅读窗口右侧展开，小窗口下覆盖显示，边读边问更方便。
+- 索引和正文同步高亮正在追问的记录，关闭或切换追问时保留未发送内容。
+- 统一输入框样式，手动输入框与正文纸页两侧对齐；追问时自动隐藏，关闭后恢复原草稿。
+- 调整日历图标、索引标题和记录文字的左侧对齐，界面更整齐。
+]]></description>
+            <enclosure url="https://github.com/cxa/yilo/releases/download/v261118.0/Yilo-261118.0.dmg" length="6087022" type="application/octet-stream" sparkle:edSignature="prdCuQsZkx7aMPm1zXnjL3s7TlCYtSTXWkC09PkGuR15+bUPQ3026c9tr32cq+Rcdz5HZrtXyWhlDX29vBK9Cw=="/>
+        </item>
+        <item>
             <title>261117.1</title>
             <pubDate>Tue, 17 Nov 2026 20:38:35 +0800</pubDate>
             <link>https://github.com/cxa/yilo</link>
@@ -77,28 +101,6 @@ Fixed English refinement text staying at its default size instead of following y
 - 《亦言》的下载包大幅缩小，安装后占用更少空间。
 ]]></description>
             <enclosure url="https://github.com/cxa/yilo/releases/download/v261107.3/Yilo-261107.3.dmg" length="5915473" type="application/octet-stream" sparkle:edSignature="0E0hB0PNsObn23/bfYrGgffalnAWMJFRaF/Oi6kCwlLFLeWMcH9HuCVD9ZDma+sdZp0yvQIZ0JhZOQKuFPVnAw=="/>
-        </item>
-        <item>
-            <title>261107.2</title>
-            <pubDate>Sat, 07 Nov 2026 14:02:14 +0800</pubDate>
-            <link>https://github.com/cxa/yilo</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2611.07.2</sparkle:version>
-            <sparkle:shortVersionString>261107.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## English
-
-- Listen to each translation from the speaker button beside Copy. Voices follow the target language and your American or British English choice, including older English translations.
-- Click the active speaker button to stop reading. Starting another translation ends the previous one.
-- Inputs containing only a skill name and its path no longer create learning records or invalid translations. Requests that include normal sentences are still collected.
-
-## 中文
-
-- 《亦言》在每种译文的复制按钮旁加入朗读按钮，按目标语言和英美口音朗读，旧版英文译文也可使用。
-- 再次点击正在播放的朗读按钮即可停止，切换到其他译文时会自动结束上一段朗读。
-- 仅包含技能名称和路径的输入不再采集，避免出现无效译文；包含正常语句的请求仍会保留。
-]]></description>
-            <enclosure url="https://github.com/cxa/yilo/releases/download/v261107.2/Yilo-261107.2.dmg" length="21136907" type="application/octet-stream" sparkle:edSignature="vMxcO3ldPbDe5QetwHn88oweEPa7QUEZXqMuzR08N/o7ZkCryf0zzCghNnHy8qA0gTK0Tqlt4s6xDTX+Vb9sBA=="/>
         </item>
     </channel>
 </rss>

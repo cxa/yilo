@@ -1,5 +1,23 @@
 # Release notes
 
+<!-- release-notes:261118.0:start -->
+## 261118.0
+
+### English
+
+- Ask follow-up questions in a panel on the right of the reading window. Narrow windows show it over the page.
+- See which record you are discussing with matching highlights in the index and on the page. Drafts stay available when you close or switch conversations.
+- Enjoy clearer input fields, with manual entry aligned to both page edges. Opening follow-up hides manual entry until you close it, preserving your draft.
+- The calendar icon, index heading, and record text now line up along the left edge.
+
+### 简体中文
+
+- 追问直接在阅读窗口右侧展开，小窗口下覆盖显示，边读边问更方便。
+- 索引和正文同步高亮正在追问的记录，关闭或切换追问时保留未发送内容。
+- 统一输入框样式，手动输入框与正文纸页两侧对齐；追问时自动隐藏，关闭后恢复原草稿。
+- 调整日历图标、索引标题和记录文字的左侧对齐，界面更整齐。
+
+<!-- release-notes:261118.0:end -->
 <!-- release-notes:261117.1:start -->
 ## 261117.1
 
