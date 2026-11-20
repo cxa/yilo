@@ -3,6 +3,30 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261120.0</title>
+            <pubDate>Fri, 20 Nov 2026 20:46:53 +0800</pubDate>
+            <link>https://github.com/cxa/yilo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2611.20.0</sparkle:version>
+            <sparkle:shortVersionString>261120.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### English
+
+- Yilo has a new electric-blue icon and a matching menu bar symbol. The Chinese versions use the 亦 artwork.
+- Learning records keep their paper-page layout. Jumping between distant entries in the index now lands more consistently.
+- Open and close the writing field with the round button in the lower-right corner.
+- The speaker animates while it reads a translation aloud. Traditional Chinese now uses 🇹🇼.
+
+### 简体中文
+
+- 《亦言》换上电光蓝图标和配套的菜单栏图案，简繁中文使用「亦」字图标。
+- 学习记录保留纸页布局，从索引跳到相隔较远的记录时，落点更稳定。
+- 点击右下角的圆形按钮即可展开或收起输入框。
+- 朗读译文时，喇叭会显示声波动效。繁体中文使用 🇹🇼。
+]]></description>
+            <enclosure url="https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg" length="8956979" type="application/octet-stream" sparkle:edSignature="+QGks1jP07ob2nZ+NM9SoFWUvVUHqGmfWxZRFWHxYgfEeqPOyKOmeDDOBapFEDZvGu7zO7LM2f6YlxAJ2RxtAQ=="/>
+        </item>
+        <item>
             <title>261118.0</title>
             <pubDate>Wed, 18 Nov 2026 11:18:19 +0800</pubDate>
             <link>https://github.com/cxa/yilo</link>
@@ -83,24 +107,6 @@
 Fixed English refinement text staying at its default size instead of following your text size setting.
 ]]></description>
             <enclosure url="https://github.com/cxa/yilo/releases/download/v261110.0/Yilo-261110.0.dmg" length="5916186" type="application/octet-stream" sparkle:edSignature="ToVNQMx5Z6y5EHXSIGF7nF7N3LfzIDbA+2ZnkZwVUphsZ7V88uJFQqQCoRNhNa2HI5RU3/acbNbCC2K42fmsCw=="/>
-        </item>
-        <item>
-            <title>261107.3</title>
-            <pubDate>Sat, 07 Nov 2026 20:44:21 +0800</pubDate>
-            <link>https://github.com/cxa/yilo</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2611.07.3</sparkle:version>
-            <sparkle:shortVersionString>261107.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## English
-
-- Yilo now takes much less space to download and install.
-
-## 简体中文
-
-- 《亦言》的下载包大幅缩小，安装后占用更少空间。
-]]></description>
-            <enclosure url="https://github.com/cxa/yilo/releases/download/v261107.3/Yilo-261107.3.dmg" length="5915473" type="application/octet-stream" sparkle:edSignature="0E0hB0PNsObn23/bfYrGgffalnAWMJFRaF/Oi6kCwlLFLeWMcH9HuCVD9ZDma+sdZp0yvQIZ0JhZOQKuFPVnAw=="/>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,23 @@
 # Release notes
 
+<!-- release-notes:261120.0:start -->
+## 261120.0
+
+### English
+
+- Yilo has a new electric-blue icon and a matching menu bar symbol. The Chinese versions use the 亦 artwork.
+- Learning records keep their paper-page layout. Jumping between distant entries in the index now lands more consistently.
+- Open and close the writing field with the round button in the lower-right corner.
+- The speaker animates while it reads a translation aloud. Traditional Chinese now uses 🇹🇼.
+
+### 简体中文
+
+- 《亦言》换上电光蓝图标和配套的菜单栏图案，简繁中文使用「亦」字图标。
+- 学习记录保留纸页布局，从索引跳到相隔较远的记录时，落点更稳定。
+- 点击右下角的圆形按钮即可展开或收起输入框。
+- 朗读译文时，喇叭会显示声波动效。繁体中文使用 🇹🇼。
+
+<!-- release-notes:261120.0:end -->
 <!-- release-notes:261118.0:start -->
 ## 261118.0
 
