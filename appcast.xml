@@ -4,7 +4,7 @@
         <title>YiYan</title>
         <item>
             <title>261120.0</title>
-            <pubDate>Fri, 20 Nov 2026 20:46:53 +0800</pubDate>
+            <pubDate>Fri, 20 Nov 2026 21:00:34 +0800</pubDate>
             <link>https://github.com/cxa/yilo</link>
             <sparkle:fullReleaseNotesLink>https://github.com/cxa/yilo/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>2611.20.0</sparkle:version>
@@ -16,6 +16,7 @@
 - Learning records keep their paper-page layout. Jumping between distant entries in the index now lands more consistently.
 - Open and close the writing field with the round button in the lower-right corner.
 - The speaker animates while it reads a translation aloud. Traditional Chinese now uses 🇹🇼.
+- The date button drops the blue outline, and Chats and Bookmarks show their counts next to their headings.
 
 ### 简体中文
 
@@ -23,8 +24,9 @@
 - 学习记录保留纸页布局，从索引跳到相隔较远的记录时，落点更稳定。
 - 点击右下角的圆形按钮即可展开或收起输入框。
 - 朗读译文时，喇叭会显示声波动效。繁体中文使用 🇹🇼。
+- 日期按钮去掉蓝色描边，追问和收藏的计数与标题同一行。
 ]]></description>
-            <enclosure url="https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg" length="8956979" type="application/octet-stream" sparkle:edSignature="+QGks1jP07ob2nZ+NM9SoFWUvVUHqGmfWxZRFWHxYgfEeqPOyKOmeDDOBapFEDZvGu7zO7LM2f6YlxAJ2RxtAQ=="/>
+            <enclosure url="https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg" length="8959515" type="application/octet-stream" sparkle:edSignature="xh8sjhEkt2O1MqhbgIkJsaRVq7oz2R2RtWR/g+xeQuTaXq71mYL92KmrzuQo91gRA1eSmm15wwLKuxNRKb6xBA=="/>
         </item>
         <item>
             <title>261118.0</title>

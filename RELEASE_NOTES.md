@@ -9,6 +9,7 @@
 - Learning records keep their paper-page layout. Jumping between distant entries in the index now lands more consistently.
 - Open and close the writing field with the round button in the lower-right corner.
 - The speaker animates while it reads a translation aloud. Traditional Chinese now uses 🇹🇼.
+- The date button drops the blue outline, and Chats and Bookmarks show their counts next to their headings.
 
 ### 简体中文
 
@@ -16,6 +17,7 @@
 - 学习记录保留纸页布局，从索引跳到相隔较远的记录时，落点更稳定。
 - 点击右下角的圆形按钮即可展开或收起输入框。
 - 朗读译文时，喇叭会显示声波动效。繁体中文使用 🇹🇼。
+- 日期按钮去掉蓝色描边，追问和收藏的计数与标题同一行。
 
 <!-- release-notes:261120.0:end -->
 <!-- release-notes:261118.0:start -->

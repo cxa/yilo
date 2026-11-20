@@ -13,7 +13,7 @@ Latest version: `Yilo-261120.0.dmg`. See the [release notes](RELEASE_NOTES.md) f
 **Direct download**
 
 <!-- release-download-en:start -->
-Download [`Yilo-261120.0.dmg`](https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg) (SHA-256: `89ea4ad5fa6cc9eef57775ca1dbca04ed8d5d077a95845463e4449d5fb80787c`)
+Download [`Yilo-261120.0.dmg`](https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg) (SHA-256: `4a9321d8d3b1f85d17ede7fa99e5e12fed0fdc33adec1ea2d379c78e67427e65`)
 <!-- release-download-en:end -->
 
 1. Download the `Yilo-261120.0.dmg` shown above.
@@ -62,7 +62,7 @@ Yilo is not open source.
 **直接下载**
 
 <!-- release-download-zh:start -->
-下载 [`Yilo-261120.0.dmg`](https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg)（SHA-256：`89ea4ad5fa6cc9eef57775ca1dbca04ed8d5d077a95845463e4449d5fb80787c`）
+下载 [`Yilo-261120.0.dmg`](https://github.com/cxa/yilo/releases/download/v261120.0/Yilo-261120.0.dmg)（SHA-256：`4a9321d8d3b1f85d17ede7fa99e5e12fed0fdc33adec1ea2d379c78e67427e65`）
 <!-- release-download-zh:end -->
 
 1. 下载上方列出的 `Yilo-261120.0.dmg`。
